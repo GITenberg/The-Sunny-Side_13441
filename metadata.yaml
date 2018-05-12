@@ -1,0 +1,33 @@
+_repo: The-Sunny-Side_13441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2004-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: Oranges and lemons -- Men of letters -- Summer days -- Wartime --
+  Home notes -- A few guests -- And others.
+title: The Sunny Side
+url: http://www.gutenberg.org/ebooks/13441
