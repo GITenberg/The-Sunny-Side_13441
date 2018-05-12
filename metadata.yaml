@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/730
     wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13441#The-Sunny-Side
 gutenberg_issued: '2004-09-12'
 gutenberg_type: Text
 identifiers:
